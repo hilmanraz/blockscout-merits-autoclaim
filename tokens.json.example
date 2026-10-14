@@ -1,0 +1,6 @@
+# Blockscout Merits — stored tokens
+#
+# Written automatically by `python3 claim.py --login` or `login_interactive.py`.
+# Contains JWTs (not private keys). Treat as sensitive — it is account access.
+#
+# ⚠️  DO NOT COMMIT THIS FILE. It is already in .gitignore.

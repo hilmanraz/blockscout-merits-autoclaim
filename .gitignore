@@ -1,0 +1,21 @@
+# Secret files — never commit these
+wallets.txt
+tokens.json
+state.json
+claim.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/

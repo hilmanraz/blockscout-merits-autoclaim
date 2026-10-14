@@ -1,0 +1,11 @@
+# Blockscout Merits — private keys (optional)
+#
+# One private key per line. Used only for `python3 claim.py --login`.
+# After login succeeds, this file can be emptied — the JWT in tokens.json
+# carries auth for ~365 days.
+#
+# ⚠️  DO NOT COMMIT THIS FILE. It is already in .gitignore.
+# ⚠️  If this is your main wallet, prefer login_interactive.py instead —
+#     it never writes the key to disk.
+#
+# 0xabc123...
